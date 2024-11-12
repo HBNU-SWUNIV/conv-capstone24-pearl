@@ -5,3 +5,6 @@
  <span style="color:red">
  - **기업 기밀 데이터가 Github에 공개되었을 시의 책임은 공개한 학생에게 있음**
  </span>
+
+제작한 코드는 아래 Github 주소의 NetVLAD 모델을 기반으로 제작
+Github : https://github.com/Fleurrr/MobileNetv2_Netvlad
