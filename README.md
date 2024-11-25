@@ -12,7 +12,9 @@
     
 - ### 기존 해결책의 문제점
   - 이미지로 위치를 추정하는 기술로는 NetVLAD가 있는데 기존 기술은 낮과 밤, 조명 조건에 따라 위치추정하는게 달라지고, 공간적 정보로만 위치추정을 하기에 공간이 조금이라도 바뀌면 위치추정에 어려움이 생긴다. 그래서 우리는 낮과 밤에 robustness하며 공간적 정보뿐만 아니라 문맥적 정보도 활용하는 NetVLAD layer를 만들것이다.
+    
 ![순서도](https://github.com/HBNU-SWUNIV/conv-capstone24-pearl/002 Presentation/순서도.png)
+
 ## System Design
   - ### System Requirements
     - python
