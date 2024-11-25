@@ -15,8 +15,12 @@
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
+    - python
+    - pytorch
+    - easyocr
+    - sklearn
+    - pillow
+    - numpy
     
 ## Case Study
   - ### Description
