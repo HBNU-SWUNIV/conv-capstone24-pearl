@@ -33,9 +33,9 @@
 |OCR + NetVLAD|54.17|70|73.5|
 
 
-![결과사진1]https://github.com/HBNU-SWUNIV/conv-capstone24-pearl/blob/c56c160e8e096318ef817f4c005f9e8bc19d26ab/002%20Presentation/%EC%B6%94%EB%A1%A0%EC%84%B1%EA%B3%B51.png
+![결과사진1](https://github.com/HBNU-SWUNIV/conv-capstone24-pearl/blob/c56c160e8e096318ef817f4c005f9e8bc19d26ab/002%20Presentation/%EC%B6%94%EB%A1%A0%EC%84%B1%EA%B3%B51.png)
 
-![결과사진2]https://github.com/HBNU-SWUNIV/conv-capstone24-pearl/blob/c56c160e8e096318ef817f4c005f9e8bc19d26ab/002%20Presentation/%EC%B6%94%EB%A1%A0%EC%84%B1%EA%B3%B52.png
+![결과사진2](https://github.com/HBNU-SWUNIV/conv-capstone24-pearl/blob/c56c160e8e096318ef817f4c005f9e8bc19d26ab/002%20Presentation/%EC%B6%94%EB%A1%A0%EC%84%B1%EA%B3%B52.png)
 
 
   
